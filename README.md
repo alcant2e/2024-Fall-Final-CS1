@@ -1,1 +1,1 @@
-# 2024-Fall-Final-CS1
+# 2024 Fall Final CS1
